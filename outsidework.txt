@@ -13,6 +13,5 @@ cd Code
 touch hello.py
 touch cv.txt
 sudo apt-get install tree
-mv tree ~
 cd ~
 tree
